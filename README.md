@@ -1,4 +1,6 @@
-# PDF merger1a
+# PDF tool
 
 PDF windows tool
-Test
+- function
+	- Merge PDF files
+	- Convert image file to PDF
